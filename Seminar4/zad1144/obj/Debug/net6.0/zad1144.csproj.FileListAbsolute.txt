@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/bin/Debug/net6.0/zad1144
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/bin/Debug/net6.0/zad1144.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/bin/Debug/net6.0/zad1144.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/bin/Debug/net6.0/zad1144.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/bin/Debug/net6.0/zad1144.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/zad1144.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/zad1144.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/zad1144.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/zad1144.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/zad1144.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/zad1144.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/refint/zad1144.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/zad1144.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/zad1144.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar4/zad1144/obj/Debug/net6.0/ref/zad1144.dll
