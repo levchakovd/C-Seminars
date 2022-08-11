@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/Zad36.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/Zad36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/Zad36.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/Zad36.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/Zad36.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/bin/Debug/net6.0/Zad36
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/bin/Debug/net6.0/Zad36.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/bin/Debug/net6.0/Zad36.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/bin/Debug/net6.0/Zad36.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/bin/Debug/net6.0/Zad36.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/Zad36.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/refint/Zad36.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/Zad36.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/Zad36.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad36/obj/Debug/net6.0/ref/Zad36.dll
