@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/bin/Debug/net6.0/Zad38
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/bin/Debug/net6.0/Zad38.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/bin/Debug/net6.0/Zad38.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/bin/Debug/net6.0/Zad38.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/bin/Debug/net6.0/Zad38.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/Zad38.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/Zad38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/Zad38.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/Zad38.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/Zad38.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/Zad38.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/refint/Zad38.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/Zad38.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/Zad38.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar5/Zad38/obj/Debug/net6.0/ref/Zad38.dll
