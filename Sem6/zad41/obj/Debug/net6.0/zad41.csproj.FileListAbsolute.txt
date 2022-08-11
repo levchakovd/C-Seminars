@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/zad41.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/zad41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/zad41.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/zad41.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/zad41.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/bin/Debug/net6.0/zad41
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/bin/Debug/net6.0/zad41.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/bin/Debug/net6.0/zad41.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/bin/Debug/net6.0/zad41.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/bin/Debug/net6.0/zad41.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/zad41.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/refint/zad41.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/zad41.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/zad41.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad41/obj/Debug/net6.0/ref/zad41.dll
