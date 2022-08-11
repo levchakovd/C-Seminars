@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad43/zad43.csproj": {}
+    "/Users/denislevchakov/Desktop/C# Seminars/Sem6/zad43/zad43.csproj": {}
   },
   "projects": {
-    "/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad43/zad43.csproj": {
+    "/Users/denislevchakov/Desktop/C# Seminars/Sem6/zad43/zad43.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad43/zad43.csproj",
+        "projectUniqueName": "/Users/denislevchakov/Desktop/C# Seminars/Sem6/zad43/zad43.csproj",
         "projectName": "zad43",
-        "projectPath": "/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad43/zad43.csproj",
+        "projectPath": "/Users/denislevchakov/Desktop/C# Seminars/Sem6/zad43/zad43.csproj",
         "packagesPath": "/Users/denislevchakov/.nuget/packages/",
-        "outputPath": "/Users/denislevchakov/Desktop/C# Seminars/Seminar6/zad43/obj/",
+        "outputPath": "/Users/denislevchakov/Desktop/C# Seminars/Sem6/zad43/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/denislevchakov/.nuget/NuGet/NuGet.Config"
