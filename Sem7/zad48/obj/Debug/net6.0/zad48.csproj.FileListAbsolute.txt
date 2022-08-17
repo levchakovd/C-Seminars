@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/bin/Debug/net6.0/zad48
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/bin/Debug/net6.0/zad48.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/bin/Debug/net6.0/zad48.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/bin/Debug/net6.0/zad48.dll
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/bin/Debug/net6.0/zad48.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/zad48.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/zad48.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/zad48.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/zad48.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/zad48.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/zad48.dll
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/refint/zad48.dll
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/zad48.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/zad48.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/Sem7/zad48/obj/Debug/net6.0/ref/zad48.dll
