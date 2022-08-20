@@ -16,6 +16,13 @@ for (int i = 0; i < n; i++)
         for (int j = 0; j < m; j++)
         {
             array3d[i,k, j] = new Random().Next(10, 100);
+            int temp = array3d[i,k, j];
+                if (temp == array3d[i,k, j])
+                {
+                    temp = array3d[i,k, j];
+                    array3d[i,k, j] = new Random().Next(10, 100);
+                }
+
         }
 }
 for (int i = 0; i < n; i++)
